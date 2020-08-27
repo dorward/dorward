@@ -1,4 +1,12 @@
-### Hi there 👋
+# David Dorward
+
+Hi, I'm David (he/him) — a software engineer with a focus on web development
+with JavaScript and Perl.
+
+## Get in touch
+
+- [🐦 @dorward](http://twitter.com/dorward)
+- [LinkedIn](https://www.linkedin.com/in/ddorward/)
 
 <!--
 **dorward/dorward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
