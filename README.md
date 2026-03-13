@@ -1,11 +1,10 @@
 # David Dorward
 
-Hi, I'm David (he/him) — a software engineer with a focus on web development
-with JavaScript and Perl.
+Hi, I'm David (he/him) — a software engineer mostly dealing with browser-side TypeScript and dabbling in a variety of other tech.
 
 ## Get in touch
 
-- [🐦 @dorward](http://twitter.com/dorward)
+- [🐘 @dorward@dice.camp]([http://twitter.com/dorward](https://dice.camp/@coreworlder))
 - [LinkedIn](https://www.linkedin.com/in/ddorward/)
 
 <!--
